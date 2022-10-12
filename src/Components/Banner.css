@@ -1,0 +1,8 @@
+.banner{
+    background-image: url("./images/Rectangle\ 2.png");
+    height: 75vh;
+    width: 98vw;
+    background-repeat: no-repeat;
+    padding-top: 300px;
+    padding-left: 100px;
+}
